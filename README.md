@@ -21,7 +21,7 @@
 - 🧠 I like turning ideas into working software: machine-learning and computer-vision pipelines, Python backends, and lately a whole operating system
 - 🐧 Building **[Praxis](https://github.com/MrMehulkhanna/praxis)** — an Arch-based Linux desktop with a local-first AI built in, shipped as an installable ISO
 - 🛡️ **Technical Head, OWASP TIET** — workshops and technical competitions for 150–200 participants
-- 🌱 Currently learning: DSA (interview prep) · advanced SQL · React · FastAPI · Docker
+- 🔬 Research interests: trustworthy and secure AI systems: robustness of ML to malicious inputs, AI agents that act safely and reproducibly, protocol security (including against quantum attackers), and risk in networked systems
 - 📫 [mehulkhanna277@gmail.com](mailto:mehulkhanna277@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mehul-khanna-495b8128a/)
 
 ### Tech stack
@@ -36,8 +36,6 @@
   <b>Systems · robotics · tools</b><br>
   <img src="https://skillicons.dev/icons?i=linux,arch,bash,qt,ros,git,github,githubactions,matlab&theme=dark" alt="Linux, Arch, Bash, Qt/QML, ROS, Git, GitHub, GitHub Actions, MATLAB">
   <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"><br><br>
-  <b>Learning now</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,docker&theme=dark" alt="HTML, CSS, JavaScript, React, Docker">
 </p>
 
 ### Featured work
@@ -47,7 +45,7 @@
 | 🐧 | **[Praxis](https://github.com/MrMehulkhanna/praxis)** <br><sub>flagship</sub> | An Arch-based Linux desktop with a local-first AI: a bootable ISO whose installer sits next to Windows without touching it; a Qt/QML shell (bar, dock, widgets, task manager, live wallpapers); and a FastAPI backend with a model gateway, permission-gated shell control, retrieval memory and a cost gate. Tested in CI. | QML · Python · FastAPI · SQLite FTS5 · llama.cpp · archiso |
 | 🎞️ | **[Semantic Frame Retention](https://github.com/MrMehulkhanna/ACSE-Semantic-Frame-Retention)** | Drops redundant video frames while keeping the semantically important events — temporal memory, novelty scoring, an ML decision gate and an explanation engine, served through a Flask web app. | Python · Flask · OpenCV · scikit-learn |
 | 🦾 | **[Robotic Arm Pick & Place](https://github.com/MrMehulkhanna/robotic-arm-for-pick-and-place)** | An articulated arm modelled in URDF and driven by a Python controller with smooth motion, visualised in RViz2. | ROS 2 · Python · URDF · RViz2 |
-| 🎵 | **[YouTube → MP3 bot](https://github.com/MrMehulkhanna/youtube-to-mp3)** | A Telegram bot that turns YouTube links into MP3s and delivers them in chat. | Python · Pyrogram · Pydub |
+| 🔐 | **[HB / LPN superposition-attack study](https://github.com/MrMehulkhanna/hb-deterministic-noise)** <br><sub>ongoing</sub> | Does input-dependent noise protect HB-type authentication from Bernstein–Vazirani superposition queries? Walsh-spectrum analysis, a spectral-gap recovery criterion, reproducible simulations and a technical report. | Python · NumPy · pytest |
 
 ### Achievements
 
