@@ -20,7 +20,6 @@
 - 🎓 **B.E. Robotics & Artificial Intelligence** — Thapar Institute of Engineering & Technology (TIET), Patiala · expected 2027
 - 🧠 I like turning ideas into working software: machine-learning and computer-vision pipelines, Python backends, and lately a whole operating system
 - 🐧 Building **[Praxis](https://github.com/MrMehulkhanna/praxis)** — an Arch-based Linux desktop with a local-first AI built in, shipped as an installable ISO
-- 🛡️ **Technical Head, OWASP TIET** — workshops and technical competitions for 150–200 participants
 - 🔬 Research interests: trustworthy and secure AI systems: robustness of ML to malicious inputs, AI agents that act safely and reproducibly, protocol security (including against quantum attackers), and risk in networked systems
 - 📫 [mehulkhanna277@gmail.com](mailto:mehulkhanna277@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mehul-khanna-495b8128a/)
 
