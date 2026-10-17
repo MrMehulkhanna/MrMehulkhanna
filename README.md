@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mehul-khanna-495b8128a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mehulkhanna277@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="Mehul_Khanna_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
   <a href="https://github.com/MrMehulkhanna/praxis"><img alt="Praxis Linux" src="https://img.shields.io/badge/Building-Praxis_Linux-7C3AED?style=for-the-badge&logo=archlinux&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MrMehulkhanna&style=for-the-badge&color=7aa2f7&label=VIEWS">
 </p>
