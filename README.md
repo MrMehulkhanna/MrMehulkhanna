@@ -50,7 +50,7 @@
 ### Achievements
 
 - 🏅 **NASA Vulnerability Disclosure Program — Hall of Fame** · responsible disclosure of a security vulnerability
-- 🥈 **Runner-Up, Hack4Sustainability 2023**
+
 - 🏆 **Top 28 of 200+ teams** · TIET selection round for Smart India Hackathon 2023
 - ☁️ **Oracle Cloud Infrastructure AI Foundations Associate** · Oracle University, 2025
 
